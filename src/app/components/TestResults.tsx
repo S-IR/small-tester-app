@@ -29,8 +29,8 @@ const TestResults: React.FC<TestResultsProps> = ({
   const [wq, toggleWq] = useState(false);
 
   return (
-    <div className="bg-white p-8 rounded-lg shadow-md">
-      <div className="text-xl font-semibold mb-4">Test Results</div>
+    <div className="bg-gray-600 p-8 rounded-lg shadow-md">
+      <div className="text-xl text-black font-semibold mb-4">Test Results</div>
       <div className="mb-6">Your score: {score.toFixed(2)}</div>
       <button className="w-24 h-12 bg-orange-600" onClick={handleReset}>
         Again

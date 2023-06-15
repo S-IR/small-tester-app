@@ -32,7 +32,7 @@
     "a": " intuiție, fler; ",
     "b": " imaginație și experiență;  ",
     "c": "talent ",
-    "answ": ["a", "b","c"],
+    "answ": ["a", "b", "c"],
     "number": 4
   },
   {
@@ -77,7 +77,7 @@
     "a": "rețele descentralizate;",
     "b": "rețele intercalate;",
     "c": " rețele centralizate.",
-    "answ": ["a","c"],
+    "answ": ["a", "c"],
     "number": 10
   },
   {
@@ -2401,7 +2401,7 @@
     "a": "borhotul, apele de golire",
     "b": " zeama de difuzie b) zeama de difuzie ",
     "c": " zahărul, borhotul, apele de golire c) zahărul, borhotul, apele de golire ",
-    "answ": ["a","b"],
+    "answ": ["a", "b"],
     "number": 59
   },
   {
@@ -2491,7 +2491,7 @@
     "a": " Streptococcus salivarius subsp. thermophilus",
     "b": " Lactococcus cremoris şi Lactococcus diacetilactis ",
     "c": " Lactobacillus delbrueckii subsp. bulgaricus",
-    "answ": ["a","b"],
+    "answ": ["a", "b"],
     "number": 69
   },
   {
@@ -3751,7 +3751,7 @@
     "question": " Care dintre următoarele afirmații privind noncalitatea și calitatea inferioară sunt adevărate: ",
     "a": "noncalitatea este data de niveluri ale caracteristicilor care fac imposibila utilizarea produsului ",
     "b": "noncalitatea afecteaza utilizarea produselor conform destinatiei sau face ca acestea sa nu ",
-    "c": "calitatea ",
+    "c": "calitatea inferioara afecteaza utilizarea produselor conform destinatiei sau face ca acestea sa nu satisfaca exigentele la nivelul dorit ",
     "answ": ["b", "c"],
     "number": 69
   },
@@ -3815,7 +3815,7 @@
     "a": " 10 camere şi 30 locuria) 10 camere şi 30 locuri",
     "b": " 20 camere şi 60 locuri b) 20 camere şi 60 locuri ",
     "c": " 15 camere şi 30 locuri c) 15 camere şi 30 locuri ",
-    "answ": ["b", "a"],
+    "answ": ["a"],
     "number": 6
   },
   {
@@ -3935,7 +3935,7 @@
     "answ": ["b"],
     "number": 19
   },
-  
+
   {
     "disc": "MANAGEMENTUL FERMELOR AGROTURISTICE",
     "question": " Filosofia de marketing în turismul rural spune: ",
@@ -4059,7 +4059,7 @@
     "a": "reducerea veniturilor agricole şi îmbătrînirea populaţiei rurale",
     "b": " nevoia de asigurare a stabilităţii populaţiei locale b) nevoia de asigurare a stabilităţii populaţiei locale ",
     "c": " diversificarea turismului urban, crearea de zone ,,Natura 2000c) diversificarea turismului urban, crearea de zone ,,Natura 2000”",
-    "answ": ["a","b"],
+    "answ": ["a", "b"],
     "number": 34
   },
   {
@@ -4239,7 +4239,7 @@
     "a": "menținerea patrimoniul cultural al zonelor rurale ;",
     "b": " păstrarea identității culturaleb) păstrarea identității culturale; ",
     "c": " publicitate și un brand omologat c) publicitate și un brand omologat ",
-    "answ": ["a","b"],
+    "answ": ["a", "b"],
     "number": 54
   },
   {
@@ -4311,7 +4311,7 @@
     "a": "vârsta, ciclul de viaţă al familiei și venitul;",
     "b": " nivelul de educaţie, naţionalitatea şi religia; b) nivelul de educaţie, naţionalitatea şi religia; ",
     "c": " gradul de cultură, sexul și sezonul sejurului c) gradul de cultură, sexul și sezonul sejurului ",
-    "answ": ["a","b"],
+    "answ": ["a", "b"],
     "number": 62
   },
   {
@@ -4320,7 +4320,7 @@
     "a": "măsurabil, viabil și transparent ca cerințe;",
     "b": " compatibil, discret și transparent ca scop al călătorieib) compatibil, discret și transparent ca scop al călătoriei; ",
     "c": " deschis la noi provocări și la investiții suplimentare c) deschis la noi provocări și la investiții suplimentare ",
-    "answ": ["a","b"],
+    "answ": ["a", "b"],
     "number": 63
   },
   {
@@ -4545,10 +4545,10 @@
   },
   {
     "disc": "PRINCIPII ȘI METODE DE CONSERVARE A A PRODUSELOR ALIMENTARE",
-    "question": " Conservareaprin afumarese explică prin:",
+    "question": " Conservarea prin afumarese explică prin:",
     "a": " acţiunea chimică, antiseptică a componentelor din fum; a) acţiunea chimică, antiseptică a componentelor din fum; ",
     "b": " acţiunea căldurii; b) acţiunea căldurii; ",
-    "c": "14. Un produs alimentar depreciat este un produs:",
+    "c": "zvântarea produsului",
     "answ": ["a", "b"],
     "number": 13
   },
@@ -4674,7 +4674,7 @@
   {
     "disc": "PRINCIPII ȘI METODE DE CONSERVARE A A PRODUSELOR ALIMENTARE",
     "question": " La ce temperatură se distruge Trichinella din carne? dar cisticercii ? ",
-    "a":"la – 28,9°C în 12 zile, formele adulte;",
+    "a": "la – 28,9°C în 12 zile, formele adulte;",
     "b": " la – 60°C în 7 zile, indiferent de stadiul de dezvoltare;",
     "c": " la – 10°C în 4 zile, cisticercii",
     "answ": ["a", "c"],
@@ -5010,7 +5010,7 @@
     "a": " se distruge biota din conservă; a) se distruge biota din conservă; ",
     "b": "se produc modificări de structură a conţinutului conservei,",
     "c": " se produc modificări nutritive ale conţinutului conservei c) se produc modificări nutritive ale conţinutului conservei ",
-    "answ": [ "a", "c"],
+    "answ": ["a", "c"],
     "number": 63
   },
   {

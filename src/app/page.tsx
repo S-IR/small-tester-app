@@ -27,7 +27,7 @@ function MyApp() {
     new Set([])
   );
 
-  const [quizQuestions, setQuizQuestions] = useState(() =>
+  const [quizQuestions, setQuizQuestions] = useState(
     getRandomQuestions(questions as questionObj[], 70)
   );
 
@@ -48,10 +48,18 @@ function MyApp() {
       const data = await res.json();
 
       setQuestions(data.questions);
-      setQuizQuestions(getRandomQuestions(questions, 70));
+      setQuizQuestions(getRandomQuestions(data.questions, 70));
     };
     fetcjhQuestions();
   }, []);
+
+  useEffect(() => {
+    console.log(`questions`, questions);
+  }, [questions]);
+
+  useEffect(() => {
+    console.log(`quizQuestions`, quizQuestions);
+  }, [quizQuestions]);
 
   if (questions === null || quizQuestions === undefined) return <></>;
   return (
