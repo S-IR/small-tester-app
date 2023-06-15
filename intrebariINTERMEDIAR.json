@@ -1,0 +1,498 @@
+[
+  {
+    "$": {
+      "draw:style-name": "gr1",
+      "draw:text-style-name": "P2",
+      "draw:layer": "layout",
+      "svg:width": "14.814cm",
+      "svg:height": "0.471cm",
+      "svg:x": "1.501cm",
+      "svg:y": "1.517cm"
+    },
+    "draw:text-box": [
+      {
+        "text:p": [
+          {
+            "$": { "text:style-name": "P1" },
+            "text:span": [
+              {
+                "_": "FACULTATEA DE INGINERIA RESURSELOR ANIMALE ȘI ALIMENTARE ",
+                "$": { "text:style-name": "T1" }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "$": {
+      "draw:style-name": "gr1",
+      "draw:text-style-name": "P2",
+      "draw:layer": "layout",
+      "svg:width": "18.048cm",
+      "svg:height": "0.471cm",
+      "svg:x": "1.501cm",
+      "svg:y": "2cm"
+    },
+    "draw:text-box": [
+      {
+        "text:p": [
+          {
+            "$": { "text:style-name": "P1" },
+            "text:span": [
+              { "_": "Specializarea: ", "$": { "text:style-name": "T2" } },
+              {
+                "_": "INGINERIE ȘI MANAGEMENT ÎN ALIMENTAȚIA PUBLICĂ ȘI AGROTURISM ",
+                "$": { "text:style-name": "T1" }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "$": {
+      "draw:style-name": "gr1",
+      "draw:text-style-name": "P2",
+      "draw:layer": "layout",
+      "svg:width": "0.422cm",
+      "svg:height": "0.471cm",
+      "svg:x": "1.501cm",
+      "svg:y": "2.487cm"
+    },
+    "draw:text-box": [
+      {
+        "text:p": [
+          {
+            "$": { "text:style-name": "P1" },
+            "text:span": [{ "$": { "text:style-name": "T2" }, "text:s": [""] }]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "$": {
+      "draw:style-name": "gr1",
+      "draw:text-style-name": "P2",
+      "draw:layer": "layout",
+      "svg:width": "0.422cm",
+      "svg:height": "0.471cm",
+      "svg:x": "1.501cm",
+      "svg:y": "2.973cm"
+    },
+    "draw:text-box": [
+      {
+        "text:p": [
+          {
+            "$": { "text:style-name": "P1" },
+            "text:span": [{ "$": { "text:style-name": "T2" }, "text:s": [""] }]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "$": {
+      "draw:style-name": "gr1",
+      "draw:text-style-name": "P2",
+      "draw:layer": "layout",
+      "svg:width": "2.69cm",
+      "svg:height": "0.471cm",
+      "svg:x": "9.212cm",
+      "svg:y": "3.465cm"
+    },
+    "draw:text-box": [
+      {
+        "text:p": [
+          {
+            "$": { "text:style-name": "P1" },
+            "text:span": [
+              { "_": "TEST GRILĂ ", "$": { "text:style-name": "T1" } }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "$": {
+      "draw:style-name": "gr1",
+      "draw:text-style-name": "P2",
+      "draw:layer": "layout",
+      "svg:width": "3.994cm",
+      "svg:height": "0.471cm",
+      "svg:x": "8.558cm",
+      "svg:y": "3.951cm"
+    },
+    "draw:text-box": [
+      {
+        "text:p": [
+          {
+            "$": { "text:style-name": "P1" },
+            "text:span": [
+              {
+                "_": "Sesiunea - iunie 2023, ",
+                "$": { "text:style-name": "T1" }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "$": {
+      "draw:style-name": "gr1",
+      "draw:text-style-name": "P2",
+      "draw:layer": "layout",
+      "svg:width": "13.748cm",
+      "svg:height": "0.471cm",
+      "svg:x": "3.681cm",
+      "svg:y": "4.434cm"
+    },
+    "draw:text-box": [
+      {
+        "text:p": [
+          {
+            "$": { "text:style-name": "P1" },
+            "text:span": [
+              {
+                "_": "pentru proba scrisă de ",
+                "$": { "text:style-name": "T2" }
+              },
+              {
+                "_": "Evaluare a cunoștințelor fundamentale și de specialitate ",
+                "$": { "text:style-name": "T3" }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "$": {
+      "draw:style-name": "gr1",
+      "draw:text-style-name": "P2",
+      "draw:layer": "layout",
+      "svg:width": "0.422cm",
+      "svg:height": "0.471cm",
+      "svg:x": "1.501cm",
+      "svg:y": "4.921cm"
+    },
+    "draw:text-box": [
+      {
+        "text:p": [
+          {
+            "$": { "text:style-name": "P1" },
+            "text:span": [{ "$": { "text:style-name": "T2" }, "text:s": [""] }]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "$": {
+      "draw:style-name": "gr1",
+      "draw:text-style-name": "P2",
+      "draw:layer": "layout",
+      "svg:width": "0.422cm",
+      "svg:height": "0.471cm",
+      "svg:x": "1.501cm",
+      "svg:y": "5.408cm"
+    },
+    "draw:text-box": [
+      {
+        "text:p": [
+          {
+            "$": { "text:style-name": "P1" },
+            "text:span": [{ "$": { "text:style-name": "T2" }, "text:s": [""] }]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "$": {
+      "draw:style-name": "gr1",
+      "draw:text-style-name": "P2",
+      "draw:layer": "layout",
+      "svg:width": "8.697cm",
+      "svg:height": "0.471cm",
+      "svg:x": "1.501cm",
+      "svg:y": "5.899cm"
+    },
+    "draw:text-box": [
+      {
+        "text:p": [
+          {
+            "$": { "text:style-name": "P1" },
+            "text:span": [
+              { "_": "DISCIPLINA:", "$": { "text:style-name": "T1" } },
+              { "$": { "text:style-name": "T2" } },
+              {
+                "_": "BAZELE MANAGEMENTULUI",
+                "$": { "text:style-name": "T4" }
+              },
+              { "$": { "text:style-name": "T3" } }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "$": {
+      "draw:style-name": "gr1",
+      "draw:text-style-name": "P2",
+      "draw:layer": "layout",
+      "svg:width": "0.422cm",
+      "svg:height": "0.471cm",
+      "svg:x": "1.501cm",
+      "svg:y": "6.383cm"
+    },
+    "draw:text-box": [
+      {
+        "text:p": [
+          {
+            "$": { "text:style-name": "P1" },
+            "text:span": [{ "$": { "text:style-name": "T5" }, "text:s": [""] }]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "$": {
+      "draw:style-name": "gr1",
+      "draw:text-style-name": "P2",
+      "draw:layer": "layout",
+      "svg:width": "10.445cm",
+      "svg:height": "0.471cm",
+      "svg:x": "1.501cm",
+      "svg:y": "6.868cm"
+    },
+    "draw:text-box": [
+      {
+        "text:p": [
+          {
+            "$": { "text:style-name": "P1" },
+            "text:span": [
+              {
+                "_": "1. Obiectul de studiu",
+                "$": { "text:style-name": "T2" }
+              },
+              { "$": { "text:style-name": "T1" } },
+              {
+                "_": "al științei managementului îl constituie: ",
+                "$": { "text:style-name": "T2" }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "$": {
+      "draw:style-name": "gr1",
+      "draw:text-style-name": "P2",
+      "draw:layer": "layout",
+      "svg:width": "13.506cm",
+      "svg:height": "0.471cm",
+      "svg:x": "2.771cm",
+      "svg:y": "7.355cm"
+    },
+    "draw:text-box": [
+      {
+        "text:p": [
+          {
+            "$": { "text:style-name": "P1" },
+            "text:span": [
+              { "_": "a.", "$": { "text:style-name": "T2" } },
+              { "$": { "text:style-name": "T6" } },
+              {
+                "_": "analiza proceselor și relațiilor de management din cadrul organizațiilor",
+                "$": { "text:style-name": "T7" }
+              },
+              { "_": "; ", "$": { "text:style-name": "T6" } }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "$": {
+      "draw:style-name": "gr1",
+      "draw:text-style-name": "P2",
+      "draw:layer": "layout",
+      "svg:width": "8.71cm",
+      "svg:height": "0.471cm",
+      "svg:x": "2.771cm",
+      "svg:y": "7.842cm"
+    },
+    "draw:text-box": [
+      {
+        "text:p": [
+          {
+            "$": { "text:style-name": "P1" },
+            "text:span": [
+              {
+                "_": "b. cercetarea schimbărilor economice și financiare; ",
+                "$": { "text:style-name": "T2" }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "$": {
+      "draw:style-name": "gr1",
+      "draw:text-style-name": "P2",
+      "draw:layer": "layout",
+      "svg:width": "6.818cm",
+      "svg:height": "0.471cm",
+      "svg:x": "2.771cm",
+      "svg:y": "8.329cm"
+    },
+    "draw:text-box": [
+      {
+        "text:p": [
+          {
+            "$": { "text:style-name": "P1" },
+            "text:span": [
+              {
+                "_": "c. dezvoltarea activităților de producție. ",
+                "$": { "text:style-name": "T2" }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "$": {
+      "draw:style-name": "gr1",
+      "draw:text-style-name": "P2",
+      "draw:layer": "layout",
+      "svg:width": "0.422cm",
+      "svg:height": "0.471cm",
+      "svg:x": "1.501cm",
+      "svg:y": "8.815cm"
+    },
+    "draw:text-box": [
+      {
+        "text:p": [
+          {
+            "$": { "text:style-name": "P1" },
+            "text:span": [{ "$": { "text:style-name": "T2" }, "text:s": [""] }]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "$": {
+      "draw:style-name": "gr1",
+      "draw:text-style-name": "P2",
+      "draw:layer": "layout",
+      "svg:width": "11.877cm",
+      "svg:height": "0.471cm",
+      "svg:x": "1.501cm",
+      "svg:y": "9.302cm"
+    },
+    "draw:text-box": [
+      {
+        "text:p": [
+          {
+            "$": { "text:style-name": "P1" },
+            "text:span": [
+              {
+                "_": "2. Care dintre elementele de mai jos definesc funcția de management: ",
+                "$": { "text:style-name": "T2" }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "$": {
+      "draw:style-name": "gr1",
+      "draw:text-style-name": "P2",
+      "draw:layer": "layout",
+      "svg:width": "0.422cm",
+      "svg:height": "0.471cm",
+      "svg:x": "1.501cm",
+      "svg:y": "9.789cm"
+    },
+    "draw:text-box": [
+      {
+        "text:p": [
+          {
+            "$": { "text:style-name": "P1" },
+            "text:span": [{ "$": { "text:style-name": "T6" }, "text:s": [""] }]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "$": {
+      "draw:style-name": "gr1",
+      "draw:text-style-name": "P2",
+      "draw:layer": "layout",
+      "svg:width": "7.021cm",
+      "svg:height": "0.471cm",
+      "svg:x": "2.75cm",
+      "svg:y": "9.789cm"
+    },
+    "draw:text-box": [
+      {
+        "text:p": [
+          {
+            "$": { "text:style-name": "P1" },
+            "text:span": [
+              { "_": "a.", "$": { "text:style-name": "T2" } },
+              { "$": { "text:style-name": "T6" } },
+              {
+                "_": "capacitatea de organizare rațională;",
+                "$": { "text:style-name": "T7" }
+              },
+              { "$": { "text:style-name": "T6" } }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "$": {
+      "draw:style-name": "gr1",
+      "draw:text-style-name": "P2",
+      "draw:layer": "layout",
+      "svg:width": "0.422cm",
+      "svg:height": "0.471cm",
+      "svg:x": "1.501cm",
+      "svg:y": "10.276cm"
+    },
+    "draw:text-box": [
+      {
+        "text:p": [
+          {
+            "$": { "text:style-name": "P1" },
+            "text:span": [{ "$": { "text:style-name": "T2" }, "text:s": [""] }]
+          }
+        ]
+      }
+    ]
+  }
+]
