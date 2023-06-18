@@ -28,7 +28,10 @@ function MyApp() {
   );
 
   const [quizQuestions, setQuizQuestions] = useState(
-    getRandomQuestions(questions as questionObj[], 70)
+    getRandomQuestions(
+      questions as questionObj[],
+      Number(process.env.NEXT_PUBLIC_QUESTIONS_TO_SHOW)
+    )
   );
 
   const handleFinalSubmit = (answers: Map<string, Set<string>>) => {
@@ -40,7 +43,10 @@ function MyApp() {
     setScore(calculatedScore);
     setIsTakingTest(false);
   };
-  const handleReset = () => setQuizQuestions(getRandomQuestions(questions, 70));
+  const handleReset = () => {
+    setIsTakingTest(true);
+    setQuizQuestions(getRandomQuestions(questions, 70));
+  };
 
   useEffect(() => {
     const fetcjhQuestions = async () => {

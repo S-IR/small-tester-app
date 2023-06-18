@@ -1,7 +1,7 @@
 // src/components/TestResults.tsx
-import React, { Dispatch, SetStateAction, useState } from "react";
+import React, { Dispatch, SetStateAction, useEffect, useState } from "react";
 import { questionObj } from "../api/questions/route";
-import { getRandomQuestions } from "@/lib/frontend/fn";
+import { arraysAreEqual, getRandomQuestions } from "@/lib/frontend/fn";
 
 interface Question {
   disc: string;
@@ -27,6 +27,27 @@ const TestResults: React.FC<TestResultsProps> = ({
   handleReset,
 }) => {
   const [wq, toggleWq] = useState(false);
+  const intrebariSlabe: Question[] = [];
+  useEffect(() => {
+    const runAwait = async () => {
+      for (const [key, value] of Array.from(answers)) {
+        const question = quizQuestions.find(
+          (q) => key === `${q.disc} ${q.number}`
+        );
+        if (question === undefined) throw new Error("question ID is undefined");
+        const valuesArr = Array.from(value);
+        if (arraysAreEqual(valuesArr, question.answ)) continue;
+        intrebariSlabe.push(question);
+      }
+      console.log("intrebariSlabe", intrebariSlabe);
+
+      await fetch("/api/saveQuestions", {
+        method: "POST",
+        body: JSON.stringify({ intrebari: intrebariSlabe }),
+      });
+    };
+    runAwait();
+  }, []);
 
   return (
     <div className="bg-gray-600 p-8 rounded-lg shadow-md">

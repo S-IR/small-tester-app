@@ -20,10 +20,10 @@
   {
     "disc": "BAZELE MANAGEMENTULUI",
     "question": " Care dintre principiile de mai jos nu aparțin școlii clasice: ",
-    "a": "capacitatea de organizare rațională;",
-    "b": " externalizarea funcției de conducere; b. externalizarea funcției de conducere; ",
-    "c": "3. Care dintre principiile de mai jos nu aparțin școlii clasice: ",
-    "answ": ["a", "c"],
+    "a": "principul excepției;",
+    "b": " unitatea de comandă; ",
+    "c": "îmbinarea autorității oficiale cu autoritatea reală. ",
+    "answ": ["c"],
     "number": 3
   },
   {
@@ -50,7 +50,7 @@
     "a": "adaptabilitate la schimbare;",
     "b": "respectarea condițiilor stabilite inițial;",
     "c": " eschimbarea priorităților.",
-    "answ": ["a", "b", "c"],
+    "answ": ["a"],
     "number": 6
   },
   {
@@ -68,7 +68,7 @@
     "a": " comunicare vorbită sau verbală; ",
     "b": " comunicare non-verbală;  ",
     "c": "comunicare direcțională ",
-    "answ": [],
+    "answ": ["a", "b"],
     "number": 9
   },
   {
@@ -239,7 +239,7 @@
     "a": " la realizarea obiectivelor; ",
     "b": "la analiza macroeconomică;",
     "c": " la modificarea strategiei. ",
-    "answ": ["a", "c"],
+    "answ": ["a"],
     "number": 28
   },
 
@@ -249,7 +249,7 @@
     "a": "pozitivă și negativă;",
     "b": " direcționată și precisă;",
     "c": " succesivă și antrenantă. ",
-    "answ": [],
+    "answ": ["a"],
     "number": 29
   },
   {
@@ -407,7 +407,7 @@
   },
   {
     "disc": "BAZELE MANAGEMENTULUI",
-    "question": " Importanța funcției de previziune în cadrul managementului organizației depinde de care dintre ",
+    "question": " Importanța funcției de previziune în cadrul managementului organizației depinde de care dintre aspectele următoare ",
     "a": " condiție prealabila a exercitării conducerii în organizație; ",
     "b": "consolidează legătura organizației cu mediul economic si social",
     "c": "asigura posibilitatea elaborării unei politici economice diferențiate.",
@@ -1353,7 +1353,7 @@
   },
   {
     "disc": "TEHNICI HOTELIERE ŞI DE RESTAURANT",
-    "question": "",
+    "question": "Cupele utilizate pentru şampanie au următoarele cap",
     "a": "200-250 ml ",
     "b": "150-200 ml ",
     "c": "300-350 ml ",
@@ -1443,7 +1443,7 @@
   },
   {
     "disc": "TEHNICI HOTELIERE ŞI DE RESTAURANT",
-    "question": "",
+    "question": "Linguriţele de tip mocca sunt utilizate pentru:",
     "a": "servirea prăjiturilor ",
     "b": "servirea produselor acido-dietetice ",
     "c": "servirea zahărului utilizat la cafea ",
@@ -1660,9 +1660,9 @@
   {
     "disc": "TEHNICI HOTELIERE ŞI DE RESTAURANT",
     "question": "Hostelul poate fi definit ca:",
-    "a": "ansamblu de clădiri (de regulă vile sau bungalouri) amplasate într-un perimetru bine delimitat ",
-    "b": "unitatea hotelieră situată în afara localităţilor (de regulă), în imediata apropiere a arterelor ",
-    "c": "unitate cu o capacitate de max. 5 camere- apartamente, amenajată, de regulă, în clădiri ",
+    "a": "ansamblu de clădiri (de regulă vile sau bungalouri) amplasate într-un perimetru bine delimitat",
+    "b": "uunitatea hotelieră situată în afara localităţilor (de regulă), în imediata apropiere a arterelor intens circulate, satisfăcând atât nevoile de cazare, cât şi cele de restauraţie",
+    "c": "uunitate cu o capacitate de max. 5 camere- apartamente, amenajată, de regulă, în clădiri cu altă destinaţie iniţială",
     "answ": ["c"],
     "number": 46
   },
@@ -1778,7 +1778,7 @@
     "disc": "TEHNICI HOTELIERE ŞI DE RESTAURANT",
     "question": "Satul de vacanţă reprezintă:",
     "a": "o structură destinată să asigure cazare turiştilor în corturi sau rulote",
-    "b": "un ansamblu de clădiri (de regulă vile sau bungalouri) amplasate într-un perimetru bine ",
+    "b": "un ansamblu de clădiri (de regulă vile sau bungalouri) amplasate într-un perimetru bine  determinat",
     "c": "structură de capacitate relativ redusă, funcţionând în clădiri independente, cu arhitectură ",
     "answ": ["b"],
     "number": 59
@@ -1885,9 +1885,9 @@
   {
     "disc": "PROCESAREA PRODUSELOR AGRICOLE",
     "question": " Pentru obţinerea laptelui destinat consumului public trebuie parcurse mai multe etape tehnologice, şi ",
-    "a": " recepţie (cantitativă şi calitativă) – curăţire – răcire – normalizare – omogenizare – dezodorizare a) recepţie (cantitativă şi calitativă) – curăţire – răcire – normalizare – omogenizare – dezodorizare ",
-    "b": " recepţie (cantitativă şi calitativă) – răcire – normalizare – tratamente termice (pasteurizare şi b) recepţie (cantitativă şi calitativă) – răcire – normalizare – tratamente termice (pasteurizare şi ",
-    "c": " recepţie (cantitativă şi calitativă) – curăţire – răcire – normalizare – omogenizare – c) recepţie (cantitativă şi calitativă) – curăţire – răcire – normalizare – omogenizare – ",
+    "a": " recepţie (cantitativă şi calitativă) – curăţire – răcire – normalizare – omogenizare – dezodorizare–depozitare temporară – ambalare ",
+    "b": " recepţie (cantitativă şi calitativă) – răcire – normalizare – tratamente termice (pasteurizare şi  sterilizare) – depozitare temporară – ambalare ",
+    "c": " rrecepţie (cantitativă şi calitativă) – curăţire – răcire – normalizare – omogenizare – tratamente termice (pasteurizare şi sterilizare) – dezodorizare – depozitare temporară – ambalare",
     "answ": ["c"],
     "number": 1
   },
@@ -2021,8 +2021,8 @@
     "disc": "PROCESAREA PRODUSELOR AGRICOLE",
     "question": " Aluatul opărit este un: ",
     "a": " aluat dospit, obţinut prin procesul de opărire a făinii într-un amestec de apă, ulei, sare, în care se a) aluat dospit, obţinut prin procesul de opărire a făinii într-un amestec de apă, ulei, sare, în care se ",
-    "b": " aluat nedospit, obţinut prin procesul de opărire a făinii într-un amestec de apă, ulei, sare, b) aluat nedospit, obţinut prin procesul de opărire a făinii într-un amestec de apă, ulei, sare, ",
-    "c": " aluat nedospit, obţinut prin procesul de opărire a făinii într-un amestec de apă, ulei, sare c) aluat nedospit, obţinut prin procesul de opărire a făinii într-un amestec de apă, ulei, sare ",
+    "b": " aluat nedospit, obţinut prin procesul de opărire a făinii într-un amestec de apă, ulei, sare, în care se încorpozează la final ouă ",
+    "c": " aaluat nedospit, obţinut prin procesul de opărire a făinii într-un amestec de apă, ulei, sare",
     "answ": ["b"],
     "number": 16
   },
@@ -2217,7 +2217,7 @@
   },
   {
     "disc": "PROCESAREA PRODUSELOR AGRICOLE",
-    "question": " Zahărul pudră sau zahărul farin se obţine din zahărul cristal prin măcinare suplimentară, astfel încât ",
+    "question": " Zahărul pudră sau zahărul farin se obţine din zahărul cristal prin măcinare suplimentară, astfel încât mărimea granulelor să nu depăşească: ",
     "a": " 1mm a) 1mm ",
     "b": " 2 mm b) 2 mm ",
     "c": " 0,05 mmc) 0,05 mm",
@@ -2271,7 +2271,7 @@
   },
   {
     "disc": "PROCESAREA PRODUSELOR AGRICOLE",
-    "question": "",
+    "question": "Conservele din carne, nu se vor supune unor tratamente termice:",
     "a": " la temperaturi de peste 100°C a) la temperaturi de peste 100°C ",
     "b": " la temperaturi cuprinse între 75°C şi 90°C b) la temperaturi cuprinse între 75°C şi 90°C ",
     "c": " la temperaturi cuprinse între 45°C şi 60°C c) la temperaturi cuprinse între 45°C şi 60°C ",
@@ -2317,7 +2317,7 @@
   {
     "disc": "PROCESAREA PRODUSELOR AGRICOLE",
     "question": " Sotarea reprezintă expunerea unui aliment: ",
-    "a": " pentru un timp scurt, într-o cantitate mică de grăsime fierbinte, la o sursă puternică de a) pentru un timp scurt, într-o cantitate mică de grăsime fierbinte, la o sursă puternică de ",
+    "a": " pentru un timp scurt, într-o cantitate mică de grăsime fierbinte, la o sursă puternică de căldură",
     "b": " pentru un timp scurt, într-o cantitate mare de grăsime fierbinte, la o sursă puternică de căldură b) pentru un timp scurt, într-o cantitate mare de grăsime fierbinte, la o sursă puternică de căldură ",
     "c": " pentru un timp scurt, într-o cantitate mare de grăsime fierbinte, la o sursă slabă de căldură c) pentru un timp scurt, într-o cantitate mare de grăsime fierbinte, la o sursă slabă de căldură ",
     "answ": ["a"],
@@ -2370,11 +2370,20 @@
   },
   {
     "disc": "PROCESAREA PRODUSELOR AGRICOLE",
+    "question": " Dizolvanţii utilizaţi în industria uleiului sunt: ",
+    "a": " hexanul",
+    "b": " acidul clorhidric, acidul sulfuric ",
+    "c": " benzina de extracţie, acetona ",
+    "answ": ["a", "c"],
+    "number": 55
+  },
+  {
+    "disc": "PROCESAREA PRODUSELOR AGRICOLE",
     "question": " Extracţia uleiului cu dizolvanţi este o operaţie tipică de transfer de ..... în care rolul preponderent îl au ",
     "a": " căldură a) căldură ",
     "b": " masă b) masă ",
     "c": " energie c) energie ",
-    "answ": ["a", "b"],
+    "answ": ["b"],
     "number": 56
   },
   {
@@ -2496,7 +2505,7 @@
   },
   {
     "disc": "PROCESAREA PRODUSELOR AGRICOLE",
-    "question": " Ierarhizarea produselor de origine animală în funcţie de importanţa economică şi alimentară, plasează ",
+    "question": " Ierarhizarea produselor de origine animală în funcţie de importanţa economică şi alimentară, plasează laptele pe poziţia: ",
     "a": "a doua",
     "b": "a treia",
     "c": "7întâi ",
@@ -3247,7 +3256,7 @@
     "question": " Procedurile nedocumentate ale SMC ",
     "a": "trebuie să fie redactate pe un suport ",
     "b": "nu trebuie să fie redactate pe un suport ",
-    "c": "se aplică proceselor desfășurate după reguli precise, menținute la fiecare repetare a ",
+    "c": "se aplică proceselor desfășurate după reguli precise, menținute la fiecare repetare a procesului și însușite de către angajați",
     "answ": ["b", "c"],
     "number": 13
   },
@@ -3424,7 +3433,7 @@
   },
   {
     "disc": "MANAGEMENTUL CALITĂȚII ",
-    "question": " Spirala calității evidențiaza principalele etape în realizarea unui produs. După parcurgerea unui ciclu ",
+    "question": " Spirala calității evidențiaza principalele etape în realizarea unui produs. După parcurgerea unui ciclu etapele se reiau ",
     "a": "la același nivel, valorificându-se experiența acumulată ",
     "b": "la un nivel inferior, deoarece eforturile necesare fiecărei etape sunt mult mai mici ",
     "c": "la un nivel superior, plecând de la o baza informațională perfecționată ",
@@ -3939,10 +3948,10 @@
   {
     "disc": "MANAGEMENTUL FERMELOR AGROTURISTICE",
     "question": " Filosofia de marketing în turismul rural spune: ",
-    "a": "",
+    "a": "„vindeţi clientului avantaje, nu caracteristici !”",
     "b": " „vindeţi clientului iluzii, nu caracteristici !” b) „vindeţi clientului iluzii, nu caracteristici !” ",
     "c": " „vindeţi clientului orice, numai vindeţi !” c) „vindeţi clientului orice, numai vindeţi !” ",
-    "answ": [],
+    "answ": ["a"],
     "number": 21
   },
   {
@@ -4685,13 +4694,14 @@
     "question": " Cele mai sensibile microorganisme la conservarea prin frig sunt: ",
     "a": " mucegaiurile şi drojdiilea) mucegaiurile şi drojdiile; ",
     "b": " virușii și mucegaiurile; b) virușii și mucegaiurile; ",
-    "c": "29. Icrele de peşti oceanici, sub formă congelată în brichete, se pot păstra: ",
-    "answ": ["a"],
+    "c": "bacteriile gram negative",
+    "answ": ["a", "c"],
     "number": 28
   },
   {
     "disc": "PRINCIPII ȘI METODE DE CONSERVARE A A PRODUSELOR ALIMENTARE",
     "question": " Icrele de peşti oceanici, sub formă congelată în brichete, se pot păstra: ",
+    "a": "6-7 luni, la -16 ÷ -20°C",
     "b": " 2-3 luni, la -16 ÷ -20°C; b) 2-3 luni, la -16 ÷ -20°C; ",
     "c": " 12-17 lunic) 12-17 luni, la -16 ÷ -20°C ",
     "answ": ["a"],
@@ -4742,7 +4752,7 @@
     "question": "Care este cauza schimbării culorii cărnii tratată termic, pe lângă îmbrunarea neenzimatică?",
     "a": " degradarea hemoglobinei; a) degradarea hemoglobinei; ",
     "b": " degradarea mioglobinei; b) degradarea mioglobinei; ",
-    "c": "35. Ce aratăCoeficientul de temperatură ( Q10) în conservarea alimentelor? ",
+    "c": "degradarea lipidelor ",
     "answ": ["a", "b"],
     "number": 34
   },
@@ -4789,7 +4799,7 @@
     "question": "Conservarea are rolul ",
     "a": " de creștere a însușirilor senzoriale și de conservare ale alimentelora) de creștere a însușirilor senzoriale și de conservare ale alimentelor; ",
     "b": "de sporire a digestibilității;",
-    "c": "40. Halocenoanabiozase poate realiza prin:",
+    "c": "de reducere a circulației alimentelor.",
     "answ": ["a", "b"],
     "number": 39
   },
@@ -4942,7 +4952,7 @@
   },
   {
     "disc": "PRINCIPII ȘI METODE DE CONSERVARE A A PRODUSELOR ALIMENTARE",
-    "question": " Alimentele ambalate în atmosferă modificată necesită tratamente suplimentare pentru refrigerare și ",
+    "question": " Alimentele ambalate în atmosferă modificată necesită tratamente suplimentare pentru refrigerare și congelare ",
     "a": " da, la fructe și exceptional la legume; a) da, la fructe și exceptional la legume; ",
     "b": "nu, metoda exclude alte tratamente;",
     "c": " da, la ouă și brânzeturi afumate c) da, la ouă și brânzeturi afumate ",
@@ -5036,8 +5046,8 @@
     "question": "Mucegăirea semipreparatelor afumate se datorează:",
     "a": " umidităţii crescute în depozit;",
     "b": " desărării şi uscării excesive a semipreparatelor;",
-    "c": " ulipsei ventilaţiei din încăperile de depozitare ",
-    "answ": ["a", "b"],
+    "c": " lipsei ventilaţiei din încăperile de depozitare ",
+    "answ": ["a", "c"],
     "number": 65
   },
   {
@@ -6178,7 +6188,7 @@
   {
     "disc": "MANAGEMENT ÎN ALIMENTAȚIE PUBLICĂ ȘI AGROTURISM",
     "question": " Pregătirea preparatelor care se servesc reci are activitatea organizată cu operațiile: ",
-    "a": "operațiile de pregătire a preparatelor reci, operații executate înaintea servirii, operații ",
+    "a": "operațiile de pregătire a preparatelor reci, operații executate înaintea servirii, operații executate în timpul servirii ",
     "b": "operațiile care se execută la comanda bucătarului șef ",
     "c": "operațiile de sortare a preparatelor reci, operațiile de plating, operațiile de servire ",
     "answ": ["a", "b"],
@@ -6231,7 +6241,7 @@
   },
   {
     "disc": "MANAGEMENT ÎN ALIMENTAȚIE PUBLICĂ ȘI AGROTURISM",
-    "question": " ",
+    "question": " Până la deschiderea unităților personalul de serviciu din sala de servire execută următoarele operațiuni",
     "a": "pregătirea ",
     "b": "realizarea aranjamentelor florale ",
     "c": "aranjarea sălii pentru servirea consumatorilor ",
@@ -6241,9 +6251,9 @@
   {
     "disc": "MANAGEMENT ÎN ALIMENTAȚIE PUBLICĂ ȘI AGROTURISM",
     "question": " Etapele mise-en-place sunt în ordine: ",
-    "a": "1. Alinierea și fixarea meselor, 2. Așezarea fețelor de masă, 3. Aranjarea tacâmurilor, ",
-    "b": "1. Alinierea și fixarea meselor, 2. Așezarea fețelor de masă, 3. Aranjarea șervetelor, . Aranjarea tacâmurilor",
-    "c": "1. Alinierea și fixarea meselor, 2. Aranjarea scaunelor, 3. Marcaea locului prin farfuria suport, ",
+    "a": "1. Alinierea și fixarea meselor, 2. Așezarea fețelor de masă, 3. Aranjarea tacâmurilor, 4. Aranjarea obiectelor de menaj și de inventar mărunt ",
+    "b": "1. Alinierea și fixarea meselor, 2. Așezarea fețelor de masă, 3. Aranjarea șervetelor, 4. Aranjarea tacâmurilor",
+    "c": "1. Alinierea și fixarea meselor, 2. Aranjarea scaunelor, 3. Marcaea locului prin farfuria suport,   4. Aranjarea șervetelor",
     "answ": ["a"],
     "number": 59
   },
@@ -6297,7 +6307,7 @@
     "question": " Noțiunea de echipament hotelier se referă la: ",
     "a": "construcțiile, instalațiile, mobilierul și dotările unităților de cazare ",
     "b": "construcțiile, instalațiile, mobilierul și dotările unităților de alimentație ",
-    "c": "construcțiile, ",
+    "c": "construcțiile, instalațiile, mobilierul și dotările unităților hoteliere și unităților de alimentație care intră în componența lor, ",
     "answ": ["c"],
     "number": 65
   },

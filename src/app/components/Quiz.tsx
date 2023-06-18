@@ -38,7 +38,10 @@ const Quiz: React.FC<QuizProps> = ({
     } else {
       questionAnswers.add(answer);
     }
+    console.log("questionAnswers", questionAnswers);
+
     newAnswers.set(questionIndex, questionAnswers);
+
     setAnswers(newAnswers);
   };
 
@@ -51,7 +54,7 @@ const Quiz: React.FC<QuizProps> = ({
   return (
     <div className="flex flex-col relative items-center justify-center align-middle bg-orange-900 p-10 rounded-sm min-w-[50vw] min-h-[50vh]">
       <p className="absolute top-0 right-0 text-lg text-gray-300">
-        {questionCount} / 70
+        {questionCount} / {Number(process.env.NEXT_PUBLIC_QUESTIONS_TO_SHOW)}
       </p>
 
       <h1 className="text-2xl font-bold mb-6">Quiz</h1>
@@ -79,7 +82,8 @@ const Quiz: React.FC<QuizProps> = ({
               </label>
             );
           })}
-          {questionCount < 69 ? (
+          {questionCount <
+          Number(process.env.NEXT_PUBLIC_QUESTIONS_TO_SHOW) - 1 ? (
             <button
               disabled={answers.get(questionIndex) === undefined}
               className={`w-24 h-12 bg-orange-700 disabled:bg-gray-700 transition-all duration-300 `}
