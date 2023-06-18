@@ -1,0 +1,1010 @@
+[
+  {
+    "disc": "BAZELE MANAGEMENTULUI",
+    "question": " Principalele variabile care condiționează relațiile de management se referă la: ",
+    "a": "dimensiunea organizației și complexitatea activității;",
+    "b": "sfera de atribuții, competente și responsabilități ale organizației;",
+    "c": " enivelul dotării tehnice.",
+    "answ": ["a", "b", "c"],
+    "number": 13
+  },
+  {
+    "disc": "MANAGEMENTUL CALITĂȚII ",
+    "question": " Între obiectivele auditului calității putem enumera: ",
+    "a": "verificarea calității produselor sau a corectitudinii controlului ",
+    "b": "verificarea aplicarii corecte a procedurilor de lucru in vederea realizarii calității",
+    "c": "verificarea calității pe fluxul de fabricatie ",
+    "answ": ["b"],
+    "number": 58
+  },
+  {
+    "disc": "INFORMATICĂ APLICATĂ",
+    "question": " Sistemul de operare indeplinește următoarele roluri ",
+    "a": " Controlează toate resursele calculatorului a. Controlează toate resursele calculatorului ",
+    "b": " Este echipamentul periferic care asigură dialogul calculatorului cu operatorul b. Este echipamentul periferic care asigură dialogul calculatorului cu operatorul ",
+    "c": " Asigură interfata utilizatorului cu resursele calculatorului c. Asigură interfata utilizatorului cu resursele calculatorului ",
+    "answ": ["a", "c"],
+    "number": 19
+  },
+  {
+    "disc": "BAZELE MANAGEMENTULUI",
+    "question": "Perioada de planificare variază în funcție de care dintre factorii prezentați mai jos:",
+    "a": "dimensiunea firmei;",
+    "b": "complexitatea activității;",
+    "c": " plasarea resurselor",
+    "answ": ["a", "b"],
+    "number": 51
+  },
+  {
+    "disc": "TEHNICI HOTELIERE ŞI DE RESTAURANT",
+    "question": "Consolele se amplasează:",
+    "a": "lângă stâlpii de susţinere ",
+    "b": "lângă pereţii salonului ",
+    "c": "în bucătărie ",
+    "answ": ["a", "b"],
+    "number": 20
+  },
+  {
+    "disc": "MANAGEMENT ÎN ALIMENTAȚIE PUBLICĂ ȘI AGROTURISM",
+    "question": " Clientul indiferent este persoana care: ",
+    "a": "are un buget precis ",
+    "b": "este întâlnit frecvent în restaurantele de lux ",
+    "c": "este întâlnit frecvent în unitățile fast-food ",
+    "answ": ["a", "c"],
+    "number": 29
+  },
+  {
+    "disc": "PRINCIPII ȘI METODE DE CONSERVARE A A PRODUSELOR ALIMENTARE",
+    "question": " Învechirea şi alterarea ouălor presupune: ",
+    "a": " pierderea de apă, modificarea densităţii şi a pH; a) pierderea de apă, modificarea densităţii şi a pH; ",
+    "b": " modificarea greutăţii, consistenţei şi a culorii cojiib) modificarea greutăţii, consistenţei şi a culorii cojii; ",
+    "c": " creșterea valorii sanologice c) creșterea valorii sanologice ",
+    "answ": ["a", "b"],
+    "number": 53
+  },
+  {
+    "disc": "ECOLOGIE ȘI PROTECȚIA MEDIULUI",
+    "question": "Plantele prezintă două tipuri de adaptări la variaţiile umidităţii. Adaptările morfologice sunt:",
+    "a": "reducerea transpirației; ",
+    "b": "căderea frunzelor; ",
+    "c": "creșterea presiunii osmotice. ",
+    "answ": ["a", "b"],
+    "number": 56
+  },
+  {
+    "disc": "MANAGEMENTUL CALITĂȚII ",
+    "question": " Înregistrările sunt documente ",
+    "a": "speciale și ținute sub control ",
+    "b": "care nu e verifică niciodată ",
+    "c": "ce nu se păstrează ",
+    "answ": ["a"],
+    "number": 15
+  },
+  {
+    "disc": "MANAGEMENTUL FERMELOR AGROTURISTICE",
+    "question": "Spațiul rural are de indeplinit mai multe funcții de bază, respectiv:",
+    "a": " de producere și aprovizionare alimentară; a) de producere și aprovizionare alimentară; ",
+    "b": " de păstrare a tradițiilor rurale și de echilibru social; b) de păstrare a tradițiilor rurale și de echilibru social; ",
+    "c": " de a păstra stilul rustic de viață al unei țări c) de a păstra stilul rustic de viață al unei țări ",
+    "answ": ["a", "b"],
+    "number": 65
+  },
+  {
+    "disc": "TEHNICI HOTELIERE ŞI DE RESTAURANT",
+    "question": "Farfuriile cunoscute sub denumirea de „jour” sunt utilizate pentru:",
+    "a": "servirea şi consumarea preparatelor lichide calde ",
+    "b": "servirea produselor de panificaţie ",
+    "c": "ca suport pentru ceşti ",
+    "answ": ["b", "c"],
+    "number": 21
+  },
+  {
+    "disc": "ECOLOGIE ȘI PROTECȚIA MEDIULUI",
+    "question": "Plantele prezintă două tipuri de adaptări la variaţiile umidităţii. Adaptările fiziologice sunt:",
+    "a": "căderea frunzelor; ",
+    "b": "creșterea presiunii osmotice; ",
+    "c": "acumularea rezervelor de apă. ",
+    "answ": ["b", "c"],
+    "number": 57
+  },
+  {
+    "disc": "PRINCIPII ȘI METODE DE CONSERVARE A A PRODUSELOR ALIMENTARE",
+    "question": " Mucegaiul este o ciupercă saprofită sau parazită, care se dezvoltă îndeosebi pe medii :",
+    "a": " bogate în umiditate; ",
+    "b": " bogate în zaharuri şi proteine solubile ",
+    "c": " bogate în vitamine",
+    "answ": ["a", "b"],
+    "number": 18
+  },
+  {
+    "disc": "MANAGEMENTUL CALITĂȚII ",
+    "question": " Planificarea calității are rolul de ",
+    "a": "anticipare a schimbării în activitatea desfășurată ",
+    "b": "evitarea schimbării în activitatea desfășurată ",
+    "c": "informare a personalului cu privire la activitatea ulterioară a firmei ",
+    "answ": ["a"],
+    "number": 23
+  },
+  {
+    "disc": "MERCEOLOGIE ALIMENTARĂ",
+    "question": " Factorii tehnologici care influențează calitatea produselor alimentare sunt: ",
+    "a": "tehnologia de obținere ",
+    "b": "marcarea și etichetarea ",
+    "c": "calitatea proiectată ",
+    "answ": ["a", "b"],
+    "number": 4
+  },
+  {
+    "disc": "MANAGEMENT ÎN ALIMENTAȚIE PUBLICĂ ȘI AGROTURISM",
+    "question": " Tarifele de cazare pot fi stabilite în funcție de: ",
+    "a": "costuri, așezare, servicii ",
+    "b": "costuri, concurență, profitul planificat ",
+    "c": "clasificare, amplasare, costuri ",
+    "answ": ["b"],
+    "number": 68
+  },
+  {
+    "disc": "MANAGEMENT ÎN ALIMENTAȚIE PUBLICĂ ȘI AGROTURISM",
+    "question": " Menul este: ",
+    "a": "instrument de promovare a vânzărilor ",
+    "b": "o listă cu ingredientele produselor fabricate ",
+    "c": "o listă cu preparatele trecute în ordinea în care se servesc ",
+    "answ": ["a", "c"],
+    "number": 61
+  },
+  {
+    "disc": "MANAGEMENT ÎN ALIMENTAȚIE PUBLICĂ ȘI AGROTURISM",
+    "question": " Grupurile sanitare în folosința consumatorilor: ",
+    "a": "au acces direct din sala de consumație ",
+    "b": "au acces din spațiile de lucru ",
+    "c": "vor fi amplasate în spațiilor de primire. ",
+    "answ": ["c"],
+    "number": 45
+  },
+  {
+    "disc": "MANAGEMENT ÎN ALIMENTAȚIE PUBLICĂ ȘI AGROTURISM",
+    "question": " Etapele mise-en-place sunt în ordine: ",
+    "a": "1. Alinierea și fixarea meselor, 2. Așezarea fețelor de masă, 3. Aranjarea tacâmurilor, 4. Aranjarea obiectelor de menaj și de inventar mărunt ",
+    "b": "1. Alinierea și fixarea meselor, 2. Așezarea fețelor de masă, 3. Aranjarea șervetelor, 4. Aranjarea tacâmurilor",
+    "c": "1. Alinierea și fixarea meselor, 2. Aranjarea scaunelor, 3. Marcaea locului prin farfuria suport,   4. Aranjarea șervetelor",
+    "answ": ["a"],
+    "number": 59
+  },
+  {
+    "disc": "ECOLOGIE ȘI PROTECȚIA MEDIULUI",
+    "question": "Efectul de grup (agregarea) este benefic asupra evoluţiei speciei și îi conferă unui organism anumite avantaje cum ar fi:",
+    "a": "evitarea prădătorilor; ",
+    "b": "localizarea hranei; ",
+    "c": "prinderea prăzii. ",
+    "answ": ["a", "b", "c"],
+    "number": 13
+  },
+  {
+    "disc": "MANAGEMENT ÎN ALIMENTAȚIE PUBLICĂ ȘI AGROTURISM",
+    "question": " Amplasarea spațiilor trebuie să urmărească: ",
+    "a": "păstrarea diferențiată a materiilor prime ",
+    "b": "prelucrarea materiilor prime în spații separate ",
+    "c": "necesitatea utilizării parțiale a suprafeței comerciale ",
+    "answ": ["a", "b"],
+    "number": 43
+  },
+  {
+    "disc": "MANAGEMENT ÎN ALIMENTAȚIE PUBLICĂ ȘI AGROTURISM",
+    "question": " Clientul avertizat este o persoană: ",
+    "a": "realistă, sensibilă la calitatea produselor, sensibilă la elementle de confort ",
+    "b": "cere puțin de la personalul unității și este insensibil la estetica unității ",
+    "c": "este cel mai puțin dorit client ",
+    "answ": ["a"],
+    "number": 30
+  },
+  {
+    "disc": "BAZELE MANAGEMENTULUI",
+    "question": " Principalele variabile care condiționează relațiile de management se referă la: ",
+    "a": "dimensiunea organizației și complexitatea activității;",
+    "b": "sfera de atribuții, competente și responsabilități ale organizației;",
+    "c": " enivelul dotării tehnice.",
+    "answ": ["a", "b", "c"],
+    "number": 13
+  },
+  {
+    "disc": "BAZELE MANAGEMENTULUI",
+    "question": " Care dintre aspectele de mai jos pot reprezenta etape ale planificării: ",
+    "a": " definirea obiectivelor de afaceri; ",
+    "b": "descrierea juridica a firmei;",
+    "c": "descrierea stadiului de dezvoltare. ",
+    "answ": ["a", "b", "c"],
+    "number": 62
+  },
+  {
+    "disc": "MANAGEMENTUL FERMELOR AGROTURISTICE",
+    "question": " Funcția ecologică a spațiului rural și de fermă presupune: ",
+    "a": " exploatarea durabilă a resurselor, protejarea obiceiurilor, a mediului și a peisajuluia) exploatarea durabilă a resurselor, protejarea obiceiurilor, a mediului și a peisajului; ",
+    "b": " reducerea migrației sat-oraș; b) reducerea migrației sat-oraș; ",
+    "c": " tehnologizarea și industrializarea ruralului c) tehnologizarea și industrializarea ruralului ",
+    "answ": ["a"],
+    "number": 70
+  },
+  {
+    "disc": "MERCEOLOGIE ALIMENTARĂ",
+    "question": " Culoarea mărfurilor alimentare este o proprietate: ",
+    "a": "fizică generală ",
+    "b": "fizică specială ",
+    "c": "fizică importantă ",
+    "answ": ["b", "c"],
+    "number": 8
+  },
+  {
+    "disc": "MANAGEMENTUL FERMELOR AGROTURISTICE",
+    "question": " Cele„ 4 magice”ale turismului rural și de fermă sunt: ",
+    "a": " unicitatea peisajului și percepția că ai multe lucruri de făcut; a) unicitatea peisajului și percepția că ai multe lucruri de făcut; ",
+    "b": " prețul redus și gastronomia originală; b) prețul redus și gastronomia originală; ",
+    "c": " vremea previzibilă și experiențele unice. c) vremea previzibilă și experiențele unice. ",
+    "answ": ["a", "c"],
+    "number": 3
+  },
+  {
+    "disc": "MERCEOLOGIE ALIMENTARĂ",
+    "question": " Ceaiul negru se obține în urma proceselor de: ",
+    "a": "ofilire, răsucire și uscare ",
+    "b": "opărire, răsucire și fermentare ",
+    "c": "ofilire, răsucirea și fermentare",
+    "answ": ["c"],
+    "number": 43
+  },
+  {
+    "disc": "TEHNICI HOTELIERE ŞI DE RESTAURANT",
+    "question": "Coordonarea activităţii hoteliere depinde de natura realaţiilor dintre atribuţii şi activităţi, distingându-se următoarele forme de interacţiune:",
+    "a": "simplă ",
+    "b": "secvenţială ",
+    "c": "reciprocă ",
+    "answ": ["a", "b", "c"],
+    "number": 34
+  },
+  {
+    "disc": "TEHNICI HOTELIERE ŞI DE RESTAURANT",
+    "question": "Tipul de cameră cunoscut sub denumirea de „suită” reprezintă:",
+    "a": "camere alăturate - au o uşă comună între ele şi uşi separate de acces de pe coridor ",
+    "b": "cameră în care se regăseşte o mică chicinetă ",
+    "c": "apartament cu două camere ",
+    "answ": ["a"],
+    "number": 17
+  },
+  {
+    "disc": "PRINCIPII ȘI METODE DE CONSERVARE A A PRODUSELOR ALIMENTARE",
+    "question": " Modificările fiziceapar la alimente atunci când:",
+    "a": " nu sunt asiguraţi factorii optimi de păstrarea) nu sunt asiguraţi factorii optimi de păstrare; ",
+    "b": " nu se efectueaza controlul de calitate al produsului; b) nu se efectueaza controlul de calitate al produsului; ",
+    "c": " se repetă fazele fluxului tehnologic c) se repetă fazele fluxului tehnologic ",
+    "answ": ["a"],
+    "number": 22
+  },
+  {
+    "disc": "BAZELE MANAGEMENTULUI",
+    "question": " Care dintre principiile următoare sunt specifice structurii organizatorice: ",
+    "a": "principiul supremației obiectivelor și unității de acțiune;",
+    "b": "principiul schimbărilor controlate;",
+    "c": "principiul conducerii unice.",
+    "answ": ["a"],
+    "number": 25
+  },
+  {
+    "disc": "BAZELE MANAGEMENTULUI",
+    "question": " Importanța funcției de previziune în cadrul managementului organizației depinde de care dintre aspectele următoare ",
+    "a": " condiție prealabila a exercitării conducerii în organizație; ",
+    "b": "consolidează legătura organizației cu mediul economic si social",
+    "c": "asigura posibilitatea elaborării unei politici economice diferențiate.",
+    "answ": ["a", "b"],
+    "number": 47
+  },
+  {
+    "disc": "MANAGEMENTUL CALITĂȚII ",
+    "question": " Procedurile nedocumentate ale SMC ",
+    "a": "trebuie să fie redactate pe un suport ",
+    "b": "nu trebuie să fie redactate pe un suport ",
+    "c": "se aplică proceselor desfășurate după reguli precise, menținute la fiecare repetare a procesului și însușite de către angajați",
+    "answ": ["b", "c"],
+    "number": 13
+  },
+  {
+    "disc": "BAZELE MANAGEMENTULUI",
+    "question": "La care dintre întrebările de mai jos răspunde funcția de organizare:",
+    "a": "cine și cu ce;",
+    "b": "care și unde;",
+    "c": " în ce mod se vor realiza obiectivele. ",
+    "answ": ["a", "c"],
+    "number": 64
+  },
+  {
+    "disc": "TEHNICI HOTELIERE ŞI DE RESTAURANT",
+    "question": "În industria hotelieră, sectorul conciergerie păstrează atribuţiile de asigurare a securităţii şi de gestionare a cheilor camerelor, dar îşi extinde aria de competenţă cu:",
+    "a": "rezolvarea solicitărilor clientului ",
+    "b": "efectuarea de servicii suplimentare ",
+    "c": "asistarea clientului prin oferirea de sfaturi, recomandări ",
+    "answ": ["a", "b", "c"],
+    "number": 18
+  },
+  {
+    "disc": "BAZELE MANAGEMENTULUI",
+    "question": " Parcurgerea defectuoasa a etapelor procesului de planificare determină: ",
+    "a": " ineficiența planificării;",
+    "b": "ignorarea realității;",
+    "c": "anticiparea riscurilor.",
+    "answ": ["a"],
+    "number": 53
+  },
+  {
+    "disc": "PROCESAREA PRODUSELOR AGRICOLE",
+    "question": " Amilaza nu este: ",
+    "a": " o proteină a) o proteină ",
+    "b": " o enzimă b) o enzimă ",
+    "c": " un compus lipidic c) un compus lipidic ",
+    "answ": ["a", "c"],
+    "number": 14
+  },
+  {
+    "disc": "BAZELE MANAGEMENTULUI",
+    "question": "La care dintre întrebările de mai jos răspunde funcția de organizare:",
+    "a": "cine și cu ce;",
+    "b": "care și unde;",
+    "c": " în ce mod se vor realiza obiectivele. ",
+    "answ": ["a", "c"],
+    "number": 64
+  },
+  {
+    "disc": "MANAGEMENTUL CALITĂȚII ",
+    "question": " Cererile de acțiuni corective se completează de către: ",
+    "a": "solicitantul auditului ",
+    "b": "auditori ",
+    "c": "managerul general ",
+    "answ": ["b"],
+    "number": 48
+  },
+  {
+    "disc": "MANAGEMENT ÎN ALIMENTAȚIE PUBLICĂ ȘI AGROTURISM",
+    "question": " Clienții pot fi: ",
+    "a": "ponderați, nereceptivi, atonici ",
+    "b": "tonici, receptivi, demonstrativi ",
+    "c": "tonici, echilibrați, demonstrativi ",
+    "answ": ["b"],
+    "number": 31
+  },
+  {
+    "disc": "TEHNICI HOTELIERE ŞI DE RESTAURANT",
+    "question": " Suporturile pentru frapiere se poziţionează astfel: ",
+    "a": " pe mese a) pe mese ",
+    "b": " lângă mese b) lângă mese ",
+    "c": " pe console c) pe console ",
+    "answ": ["a", "b", "b"],
+    "number": 7
+  },
+  {
+    "disc": "MANAGEMENT ÎN ALIMENTAȚIE PUBLICĂ ȘI AGROTURISM",
+    "question": " Unitățile de fast-food sunt: ",
+    "a": "restaurant cu autoservire ",
+    "b": "restaurant specializat ",
+    "c": "snack bar ",
+    "answ": ["a", "c"],
+    "number": 19
+  },
+  {
+    "disc": "TEHNICI HOTELIERE ŞI DE RESTAURANT",
+    "question": "Satul de vacanţă reprezintă:",
+    "a": "o structură destinată să asigure cazare turiştilor în corturi sau rulote",
+    "b": "un ansamblu de clădiri (de regulă vile sau bungalouri) amplasate într-un perimetru bine  determinat",
+    "c": "structură de capacitate relativ redusă, funcţionând în clădiri independente, cu arhitectură ",
+    "answ": ["b"],
+    "number": 59
+  },
+  {
+    "disc": "PRINCIPII ȘI METODE DE CONSERVARE A A PRODUSELOR ALIMENTARE",
+    "question": " Modificările chimiceale alimentelor se datorează:",
+    "a": " accesului oxigenuluia) accesului oxigenuluiîn locurile de depozitare; ",
+    "b": " componentelor chimice din alimente, care se transformă; b) componentelor chimice din alimente, care se transformă; ",
+    "c": " existența unei biote patogene c) existența unei biote patogene ",
+    "answ": ["a", "a", "b"],
+    "number": 23
+  },
+  {
+    "disc": "MANAGEMENTUL FERMELOR AGROTURISTICE",
+    "question": " În turismul rural și de fermă, relaţia dinte turiști şi rezidenţi este privită ca: ",
+    "a": " o balanţă între costuri şi beneficii; a) o balanţă între costuri şi beneficii; ",
+    "b": " o activitate antreprenorială; b) o activitate antreprenorială; ",
+    "c": " o activitate relațională temporară c) o activitate relațională temporară ",
+    "answ": ["a"],
+    "number": 71
+  },
+  {
+    "disc": "MANAGEMENTUL FERMELOR AGROTURISTICE",
+    "question": " Funcția ecologică a spațiului rural și de fermă presupune: ",
+    "a": " exploatarea durabilă a resurselor, protejarea obiceiurilor, a mediului și a peisajuluia) exploatarea durabilă a resurselor, protejarea obiceiurilor, a mediului și a peisajului; ",
+    "b": " reducerea migrației sat-oraș; b) reducerea migrației sat-oraș; ",
+    "c": " tehnologizarea și industrializarea ruralului c) tehnologizarea și industrializarea ruralului ",
+    "answ": ["a"],
+    "number": 70
+  },
+  {
+    "disc": "INFORMATICĂ APLICATĂ",
+    "question": " Se poate anula eliminarea unei foi de calcul din registru? ",
+    "a": " se poate anula cu comanda Undo a. se poate anula cu comanda Undo ",
+    "b": " nu se poate anula cu comanda Undo b. nu se poate anula cu comanda Undo ",
+    "c": " închizând registrul fără salvare c. închizând registrul fără salvare ",
+    "answ": ["b", "c"],
+    "number": 69
+  },
+  {
+    "disc": "MANAGEMENTUL FERMELOR AGROTURISTICE",
+    "question": " Ce se înțelege prin “produsul turistic” al unei regiuni ?",
+    "a": " spaţiul natural și antropic al regiunii a) spaţiul natural și antropic al regiunii ",
+    "b": " un ansamblu de bunuri dintr-o regiune b) un ansamblu de bunuri dintr-o regiune ",
+    "c": " un asamblu de servicii dintr-o regiune c) un asamblu de servicii dintr-o regiune ",
+    "answ": ["b", "c"],
+    "number": 28
+  },
+  {
+    "disc": "MANAGEMENT ÎN ALIMENTAȚIE PUBLICĂ ȘI AGROTURISM",
+    "question": " Satul de vacanță este o structură de primire turistică: ",
+    "a": "care este un ansamblu de clădiri sau de corturi ",
+    "b": "care este amplasat într-un perimetru bine delimitat ",
+    "c": "care asigură servicii de prestații turistice suplimentare ",
+    "answ": ["b", "c"],
+    "number": 9
+  },
+  {
+    "disc": "BAZELE MANAGEMENTULUI",
+    "question": " Specializarea funcțională se realizează prin: ",
+    "a": "specializarea bazată pe cunoștințe;",
+    "b": " specializarea de ramură;",
+    "c": "specializare universală.",
+    "answ": ["a"],
+    "number": 34
+  },
+  {
+    "disc": "MANAGEMENTUL FERMELOR AGROTURISTICE",
+    "question": " Pentru un bun management al unei ferme/pensiuni agroturistice se va ţine cont de: ",
+    "a": " amplasarea acesteia, dotarea şi spaţiile pentru cazare și prepararea/servirea mesei a) amplasarea acesteia, dotarea şi spaţiile pentru cazare și prepararea/servirea mesei ",
+    "b": " spaţiul rural, amplasarea şi dotarea generală a fermei/pensiunii b) spaţiul rural, amplasarea şi dotarea generală a fermei/pensiunii ",
+    "c": " număr de camere, bucătării şi spaţii de joacă c) număr de camere, bucătării şi spaţii de joacă ",
+    "answ": ["a"],
+    "number": 35
+  },
+  {
+    "disc": "TEHNICI HOTELIERE ŞI DE RESTAURANT",
+    "question": "Ravierele se folosesc la",
+    "a": "montarea, prezentarea şi consumarea preparatelor culinare cu sos ",
+    "b": "prezentarea şi servirea separată a sosurilor",
+    "c": "servirea şi consumarea compoturilor",
+    "answ": ["a"],
+    "number": 60
+  },
+  {
+    "disc": "BAZELE MANAGEMENTULUI",
+    "question": "Perioada de planificare variază în funcție de care dintre factorii prezentați mai jos:",
+    "a": "dimensiunea firmei;",
+    "b": "complexitatea activității;",
+    "c": " plasarea resurselor",
+    "answ": ["a", "b"],
+    "number": 51
+  },
+  {
+    "disc": "PROCESAREA PRODUSELOR AGRICOLE",
+    "question": " Tratamentul hidrotermic al măcinăturii oleaginoase nu se va efectua în utilaje de tipul: ",
+    "a": " prăjitoarelor de forma cilindrică şi care conţin 2-6 compartimente multietajate a) prăjitoarelor de forma cilindrică şi care conţin 2-6 compartimente multietajate ",
+    "b": " concasoarelor de formă ovală şi care conţin 2-3 compartimente b) concasoarelor de formă ovală şi care conţin 2-3 compartimente ",
+    "c": " maşinilor de zdrobit c) maşinilor de zdrobit ",
+    "answ": ["b", "c"],
+    "number": 53
+  },
+  {
+    "disc": "BAZELE MANAGEMENTULUI",
+    "question": "Care dintre elementele de mai jos pot determina factorii și caracteristicile relațiilor de management în cadrul firmei:",
+    "a": "determinare social-economica;",
+    "b": " determinare tehnico-materiala;",
+    "c": " determinare umana",
+    "answ": ["a", "b", "c"],
+    "number": 38
+  },
+  {
+    "disc": "TEHNICI HOTELIERE ŞI DE RESTAURANT",
+    "question": "Departamentul general include:",
+    "a": "departamentul Financiar-contabil",
+    "b": "departamentul de Cazare ",
+    "c": "departamentul Comercial, Resurse umane",
+    "answ": ["a", "c"],
+    "number": 63
+  },
+  {
+    "disc": "TEHNICI HOTELIERE ŞI DE RESTAURANT",
+    "question": "Căpăcelele se folosesc la:",
+    "a": "transportarea, servirea şi consumarea preparatelor din ouă (ochiuri)",
+    "b": "transportarea, prezentarea şi servirea supelor ",
+    "c": "transportarea, servirea şi consumarea preparatelor din caşcaval (la capac, pane) ",
+    "answ": ["a", "c"],
+    "number": 39
+  },
+  {
+    "disc": "MANAGEMENTUL FERMELOR AGROTURISTICE",
+    "question": "Principalele avantaje pentru segmentarea pieţei turistice rurale sunt:",
+    "a": " descoperirea, compania altor persoane, construirea de relaţii; a) descoperirea, compania altor persoane, construirea de relaţii; ",
+    "b": " relaxarea, libertatea de exprimare, accepțiunea de aventură și risc; b) relaxarea, libertatea de exprimare, accepțiunea de aventură și risc; ",
+    "c": " crearea de grupuri mari și compacte. c) crearea de grupuri mari și compacte. ",
+    "answ": ["a", "b"],
+    "number": 61
+  },
+  {
+    "disc": "MERCEOLOGIE ALIMENTARĂ",
+    "question": " În organismul uman proteinele au rol de: ",
+    "a": "catalizatori ",
+    "b": "sursă de energie ",
+    "c": "reglator hormonal ",
+    "answ": ["a", "b"],
+    "number": 17
+  },
+  {
+    "disc": "MANAGEMENTUL FERMELOR AGROTURISTICE",
+    "question": " Care sunt primele două elemente care definesc evaluarea mediului natural de către turist ? ",
+    "a": " clima şi curăţenia; a) clima şi curăţenia; ",
+    "b": " percepția personală a zonei (atracția); b) percepția personală a zonei (atracția); ",
+    "c": " imaginea de ansamblu a zonei c) imaginea de ansamblu a zonei ",
+    "answ": ["b", "c"],
+    "number": 40
+  },
+  {
+    "disc": "ECOLOGIE ȘI PROTECȚIA MEDIULUI",
+    "question": "Rezervaţia Biosferei Delta Dunării are următoarea zonificare:",
+    "a": "zone strict protejate; ",
+    "b": "zone de reconstrucție ecologică; ",
+    "c": "zonă economică. ",
+    "answ": ["a", "b", "c"],
+    "number": 69
+  },
+  {
+    "disc": "BAZELE MANAGEMENTULUI",
+    "question": "Previziunea consta în ansamblul activităților prin intermediul cărora se determină:",
+    "a": "dimensionarea și funcționarea organizației;",
+    "b": "identificarea riscurilor;",
+    "c": " stabilirea posibilităților și mijloacelor de realizare a obiectivelor propuse. ",
+    "answ": ["c"],
+    "number": 15
+  },
+  {
+    "disc": "MANAGEMENTUL CALITĂȚII ",
+    "question": "Procedurile documentate ale SMC",
+    "a": "sunt redactate pe un suport și sunt puse la dispoziția celor implicați în proces ",
+    "b": "nu trebuie scrise, deoarece regulile proceselor sunt însușite foarte bine de către angajați ",
+    "c": "sunt redactate pe un suport dar nu sunt puse la dispoziția celor implicați în proces ",
+    "answ": ["a"],
+    "number": 20
+  },
+  {
+    "disc": "TEHNICI HOTELIERE ŞI DE RESTAURANT",
+    "question": "Pentru tăierea şi servirea brânzeturilor se utilizează:",
+    "a": "furculiţă de mici dimensiuni cu 2 dinţi",
+    "b": "cuţit prevăzut în vârf cu 2 dinţi ",
+    "c": "cuţit cu lama îngustă",
+    "answ": ["b"],
+    "number": 23
+  },
+  {
+    "disc": "MANAGEMENTUL FERMELOR AGROTURISTICE",
+    "question": "Un produs tradiţional autentic presupune :",
+    "a": " un produs tradiţional al mestesugarilor a) un produs tradiţional al mestesugarilor ",
+    "b": " un produs tradiţional de măcelărie b) un produs tradiţional de măcelărie ",
+    "c": " un produs tradiţional alimentar, de artă şi tehnică, al creaţiei spirituale c) un produs tradiţional alimentar, de artă şi tehnică, al creaţiei spirituale ",
+    "answ": ["c"],
+    "number": 48
+  },
+  {
+    "disc": "MANAGEMENTUL CALITĂȚII ",
+    "question": " Asupra calității mediului intreprinderii managerii pot acționa: ",
+    "a": "direct, asupra tuturor componentelor ",
+    "b": "direct asupra componentelor mediului intern ",
+    "c": "parțial și indirect asupra componentelor micromediului extern ",
+    "answ": ["b", "c"],
+    "number": 47
+  },
+  {
+    "disc": "PROCESAREA PRODUSELOR AGRICOLE",
+    "question": " Culoarea făinii este independentă de: ",
+    "a": " gradul de extracţie a) gradul de extracţie ",
+    "b": " porozitate b) porozitate ",
+    "c": " gradul de maturare c) gradul de maturare ",
+    "answ": ["b", "c"],
+    "number": 20
+  },
+  {
+    "disc": "MANAGEMENTUL CALITĂȚII ",
+    "question": " Funcția de planificare este asigurată de ",
+    "a": "managementul de vârf al organizației",
+    "b": "Reprezentantul managementului calității ",
+    "c": "principalii clienți ",
+    "answ": ["a"],
+    "number": 16
+  },
+  {
+    "disc": "BAZELE MANAGEMENTULUI",
+    "question": "Caracteristicile definitorii ale compartimentului, ca element component al structurii organizatorice sunt:",
+    "a": "existența relațiilor dintre membrii compartimentului;",
+    "b": " aexistența relațiilor cu membrii altui compartiment; ",
+    "c": " caracterul permanent al sarcinilor pe care le are de îndeplinit respectivul grup de oameni.",
+    "answ": ["a", "c"],
+    "number": 23
+  },
+  {
+    "disc": "MANAGEMENT ÎN ALIMENTAȚIE PUBLICĂ ȘI AGROTURISM",
+    "question": " Vila este o structură de primire turistică: ",
+    "a": "situată în stațiuni balneo-climaterice ",
+    "b": "asigură cazarea turiștilor ",
+    "c": "asigură prestarea unor servicii specifice ",
+    "answ": ["a", "b", "c"],
+    "number": 4
+  },
+  {
+    "disc": "MANAGEMENTUL CALITĂȚII ",
+    "question": " Cerințele pe care trebuie să le îndeplinească un indicator al calității sunt: ",
+    "a": "să fie simplu ",
+    "b": "să fie pertinent ",
+    "c": "să nu poată fi falsificat ",
+    "answ": ["a", "b"],
+    "number": 44
+  },
+  {
+    "disc": "MANAGEMENTUL CALITĂȚII ",
+    "question": " Planificarea calității are rolul de ",
+    "a": "anticipare a schimbării în activitatea desfășurată ",
+    "b": "evitarea schimbării în activitatea desfășurată ",
+    "c": "informare a personalului cu privire la activitatea ulterioară a firmei ",
+    "answ": ["a"],
+    "number": 23
+  },
+  {
+    "disc": "MANAGEMENT ÎN ALIMENTAȚIE PUBLICĂ ȘI AGROTURISM",
+    "question": " Braseria este o unitate de alimentație publică: ",
+    "a": "care oferă clienților bere și alte produse cu care se asociază ",
+    "b": "care oferă clienților preparate culinare ușoare ",
+    "c": "care poate fi clasificată între 3 și 5 stele ",
+    "answ": ["b", "c"],
+    "number": 18
+  },
+  {
+    "disc": "INFORMATICĂ APLICATĂ",
+    "question": " Care din următorii sunt operatori aritmetici? ",
+    "a": " - a. - ",
+    "b": " * b. * ",
+    "c": " \\ c. \\ ",
+    "answ": ["a", "b"],
+    "number": 43
+  },
+  {
+    "disc": "MANAGEMENTUL CALITĂȚII ",
+    "question": " Care afirmații sunt adevărate în legătură cu caracteristicile sociale: ",
+    "a": "unele trebuie să aibă niveluri cuprinse între anumite limite ",
+    "b": "pun in evidenta modul în care produsul sau serviciul influențează viața persoanelor și a ",
+    "c": "sunt percepute ușor de utilizatori ",
+    "answ": ["a", "b", "c"],
+    "number": 41
+  },
+  {
+    "disc": "TEHNICI HOTELIERE ŞI DE RESTAURANT",
+    "question": "Picurile sunt folosite pentru:",
+    "a": "servit ceaiul ",
+    "b": "servit frişcă lichidă ",
+    "c": "servit lapte dulce fiert ",
+    "answ": ["b"],
+    "number": 47
+  },
+  {
+    "disc": "MANAGEMENTUL FERMELOR AGROTURISTICE",
+    "question": " Cei mai importanţi factori ai evoluţiei turismului rural și de fermă pot fi : ",
+    "a": " creşterea economică și oferta turisticăa) creşterea economică și oferta turistică; ",
+    "b": " banii și timpul liber; b) banii și timpul liber; ",
+    "c": " evoluţia demografică şi timpul liber c) evoluţia demografică şi timpul liber ",
+    "answ": ["a", "c"],
+    "number": 42
+  },
+  {
+    "disc": "ECOLOGIE ȘI PROTECȚIA MEDIULUI",
+    "question": "Cauzele principale ale pierderii biodiversității, de natură antropică pot fi:",
+    "a": "cutremurele; ",
+    "b": "schimbarea utilizării terenurilor; ",
+    "c": "poluarea. ",
+    "answ": ["b", "c"],
+    "number": 66
+  },
+  {
+    "disc": "MANAGEMENTUL FERMELOR AGROTURISTICE",
+    "question": "Principalele avantaje pentru segmentarea pieţei turistice rurale sunt:",
+    "a": " descoperirea, compania altor persoane, construirea de relaţii; a) descoperirea, compania altor persoane, construirea de relaţii; ",
+    "b": " relaxarea, libertatea de exprimare, accepțiunea de aventură și risc; b) relaxarea, libertatea de exprimare, accepțiunea de aventură și risc; ",
+    "c": " crearea de grupuri mari și compacte. c) crearea de grupuri mari și compacte. ",
+    "answ": ["a", "b"],
+    "number": 61
+  },
+  {
+    "disc": "MANAGEMENTUL CALITĂȚII ",
+    "question": "Raționalizarea economică este:",
+    "a": "un obiectiv general al managementului calității ",
+    "b": "o cale de creștere a eficienței economice ",
+    "c": "un obiectiv al standardizării ",
+    "answ": ["c"],
+    "number": 1
+  },
+  {
+    "disc": "ECOLOGIE ȘI PROTECȚIA MEDIULUI",
+    "question": "Indicatorii biodiversității constituie un instrument rapid și ușor de utilizat pentru evidențierea și prezentarea:",
+    "a": "tendințelor generale; ",
+    "b": "istoricului speciilor; ",
+    "c": "numărului de specii. ",
+    "answ": ["a", "c"],
+    "number": 65
+  },
+  {
+    "disc": "BAZELE MANAGEMENTULUI",
+    "question": "Caracteristicile definitorii ale compartimentului, ca element component al structurii organizatorice sunt:",
+    "a": "existența relațiilor dintre membrii compartimentului;",
+    "b": " aexistența relațiilor cu membrii altui compartiment; ",
+    "c": " caracterul permanent al sarcinilor pe care le are de îndeplinit respectivul grup de oameni.",
+    "answ": ["a", "c"],
+    "number": 23
+  },
+  {
+    "disc": "BAZELE MANAGEMENTULUI",
+    "question": " Care dintre elementele următoare pot contribui la sporirea eficienței managementului: ",
+    "a": "ameliorarea cantitativa si calitativa a muncii de execuție",
+    "b": " amplificarea funcționalității globale a firmei;",
+    "c": "integrarea firmei în cadrul pieței si economiei naționale. ",
+    "answ": ["a", "b", "c"],
+    "number": 42
+  },
+  {
+    "disc": "BAZELE MANAGEMENTULUI",
+    "question": " Care din următoarele atribuții sunt specific personalului din categoria TOP MANAGEMENT: ",
+    "a": "stabilesc strategia și politicile organizației;",
+    "b": "stabilesc obiectivele generale ale organizației;",
+    "c": "supraveghează intrările și ieșirile.",
+    "answ": ["a", "b"],
+    "number": 14
+  },
+  {
+    "disc": "BAZELE MANAGEMENTULUI",
+    "question": "Care dintre aspectele de mai jos facilitează exercitarea funcției de coordonare:",
+    "a": "coordonarea multilaterală;",
+    "b": " coordonarea prin delegare; ",
+    "c": " coordonarea statică.",
+    "answ": ["a"],
+    "number": 26
+  },
+  {
+    "disc": "TEHNICI HOTELIERE ŞI DE RESTAURANT",
+    "question": "Cupele utilizate pentru şampanie au următoarele cap",
+    "a": "200-250 ml ",
+    "b": "150-200 ml ",
+    "c": "300-350 ml ",
+    "answ": ["b"],
+    "number": 12
+  },
+  {
+    "disc": "PRINCIPII ȘI METODE DE CONSERVARE A A PRODUSELOR ALIMENTARE",
+    "question": " Ce defecte apar la laptele proaspăt şi refrigerat necorespunzător ? ",
+    "a": " defect de rânced, coclit și amara) defect de rânced, coclit și amar; ",
+    "b": " defect de culoare şi densitate; b) defect de culoare şi densitate; ",
+    "c": " nu este specificat in normative c) nu este specificat in normative ",
+    "answ": ["a"],
+    "number": 20
+  },
+  {
+    "disc": "MANAGEMENTUL CALITĂȚII ",
+    "question": " Între cerințele de calitate pe care trebuie să le îndeplineasca piesele de schimb putem menționa: ",
+    "a": "interschimbabilitatea ",
+    "b": "marcajele de identificare a producătorilor ",
+    "c": "complexitate corespunzătoare ",
+    "answ": ["a", "b"],
+    "number": 53
+  },
+  {
+    "disc": "MANAGEMENT ÎN ALIMENTAȚIE PUBLICĂ ȘI AGROTURISM",
+    "question": " Fluxurile tehnologice optime au în vedere organizarea următoarelor circuite: ",
+    "a": "circuitul servirii și debarasării, circuitul evacuării deșeurilor, circuitul consumatorilor ",
+    "b": "circuitul materiilor prime de la recepție și depozitare la secțiile de pregătire și preparare, ",
+    "c": "circuitul personalului, circuitul consumatorilor, circuitul mărfurilor ",
+    "answ": ["a", "b"],
+    "number": 47
+  },
+  {
+    "disc": "ECOLOGIE ȘI PROTECȚIA MEDIULUI",
+    "question": "Etapa sinecologică se caracterizează prin cercetarea relațiilor dintre:",
+    "a": "indivizi și populații; ",
+    "b": "indivizii unei singure specii; ",
+    "c": "un organism cu mediul. ",
+    "answ": ["a"],
+    "number": 4
+  },
+  {
+    "disc": "INFORMATICĂ APLICATĂ",
+    "question": " Hardware reprezinta: ",
+    "a": " partea electronică a calculatorului a. partea electronică a calculatorului ",
+    "b": " Ansamblul programelor care indeplinesc o functie specifica b. Ansamblul programelor care indeplinesc o functie specifica ",
+    "c": " Ansamblul elementelor fizice si tehnice cu ajutorul carora datele se culeg si se prelucreaza c. Ansamblul elementelor fizice si tehnice cu ajutorul carora datele se culeg si se prelucreaza ",
+    "answ": ["c"],
+    "number": 32
+  },
+  {
+    "disc": "PROCESAREA PRODUSELOR AGRICOLE",
+    "question": " Cultura starter de producţie folosită la obţinerea iaurtului conţine: ",
+    "a": " Streptococcus salivarius subsp. thermophilus",
+    "b": " Lactococcus cremoris şi Lactococcus diacetilactis ",
+    "c": " Lactobacillus delbrueckii subsp. bulgaricus",
+    "answ": ["a", "b"],
+    "number": 69
+  },
+  {
+    "disc": "PROCESAREA PRODUSELOR AGRICOLE",
+    "question": " În procesul de pregătirea a bradtului nu se vor adauga polifosfaţi pentru: ",
+    "a": " prelucrarea cărnii proaspete a) prelucrarea cărnii proaspete ",
+    "b": " prelucrarea cărnii refrigerate b) prelucrarea cărnii refrigerate ",
+    "c": " prelucrarea cărnii congelate c) prelucrarea cărnii congelate ",
+    "answ": ["a", "c"],
+    "number": 45
+  },
+  {
+    "disc": "MANAGEMENT ÎN ALIMENTAȚIE PUBLICĂ ȘI AGROTURISM",
+    "question": " Motivele pentru care clienții aleg un anumit hotel sunt: ",
+    "a": "specificul și amplasarea hotelului ",
+    "b": "structura serviciilor oferite ",
+    "c": "tarifele și facilitățile acordate ",
+    "answ": ["a", "b", "c"],
+    "number": 67
+  },
+  {
+    "disc": "MANAGEMENT ÎN ALIMENTAȚIE PUBLICĂ ȘI AGROTURISM",
+    "question": " Clientul ponderat: ",
+    "a": "știe să se controleze ",
+    "b": "evaluează și cântărește toate sentimentele ",
+    "c": "are un mod de viață ordonat ",
+    "answ": ["a", "c"],
+    "number": 32
+  },
+  {
+    "disc": "BAZELE MANAGEMENTULUI",
+    "question": "La care dintre întrebările de mai jos răspunde funcția de organizare:",
+    "a": "cine și cu ce;",
+    "b": "care și unde;",
+    "c": " în ce mod se vor realiza obiectivele. ",
+    "answ": ["a", "c"],
+    "number": 64
+  },
+  {
+    "disc": "ECOLOGIE ȘI PROTECȚIA MEDIULUI",
+    "question": "Conform concepției sistemice, ierarhia obiectivă este exprimată în noțiunea de nivel. În lumea vie se deosebesc două tipuri de niveluri:",
+    "a": "niveluri de distribuție; ",
+    "b": "niveluri de integrare; ",
+    "c": "niveluri de organizare. ",
+    "answ": ["b", "c"],
+    "number": 44
+  },
+  {
+    "disc": "BAZELE MANAGEMENTULUI",
+    "question": " Specializarea funcțională se realizează prin: ",
+    "a": "specializarea bazată pe cunoștințe;",
+    "b": " specializarea de ramură;",
+    "c": "specializare universală.",
+    "answ": ["a"],
+    "number": 34
+  },
+  {
+    "disc": "MANAGEMENT ÎN ALIMENTAȚIE PUBLICĂ ȘI AGROTURISM",
+    "question": " Funcțiile alimentației publice sunt: ",
+    "a": "funcția de nutriție, afaceri și convivialitate ",
+    "b": "funcția de loisir, nutriție și convivialitate ",
+    "c": "funcția de loisir, convivialitate și afaceri ",
+    "answ": ["a", "b", "c"],
+    "number": 40
+  },
+  {
+    "disc": "PRINCIPII ȘI METODE DE CONSERVARE A A PRODUSELOR ALIMENTARE",
+    "question": " Toxinele, odată produse în aliment, sunt inactivate prin scăderea temperaturii ? ",
+    "a": " da, la temperaturi foarte scăzute; a) da, la temperaturi foarte scăzute; ",
+    "b": "nu, rămân active în acel aliment;",
+    "c": " depinde de aliment c) depinde de aliment ",
+    "answ": ["b"],
+    "number": 38
+  },
+  {
+    "disc": "PROCESAREA PRODUSELOR AGRICOLE",
+    "question": " După centrifugarea masei groase se obţine: ",
+    "a": " zahăr tos a) zahăr tos ",
+    "b": " sirop verde şi sirop alb b) sirop verde şi sirop alb ",
+    "c": " borhot c) borhot ",
+    "answ": ["a", "b"],
+    "number": 62
+  },
+  {
+    "disc": "MANAGEMENTUL CALITĂȚII ",
+    "question": " Între motivele unei intreprinderi pentru a obține certificarea sistemului calitate putem menționa: ",
+    "a": "valorificarea rezultatelor obtinute in domeniul cresterii calității",
+    "b": "respectarea prevederilor legale ",
+    "c": "pentru a stimula cresterea vanzarilor",
+    "answ": ["a", "c"],
+    "number": 67
+  },
+  {
+    "disc": "MANAGEMENTUL FERMELOR AGROTURISTICE",
+    "question": " Oferta primară potenţială a turismului rural și de ferma o reprezinta: ",
+    "a": " resursele turistice naturale dintr-o anumita zona; a) resursele turistice naturale dintr-o anumita zona; ",
+    "b": " pensiunile şi preţul scăzut al cazarii; b) pensiunile şi preţul scăzut al cazarii; ",
+    "c": " monumentele istorice si cetatile c) monumentele istorice si cetatile ",
+    "answ": ["a"],
+    "number": 17
+  },
+  {
+    "disc": "INFORMATICĂ APLICATĂ",
+    "question": " Procesorul este ",
+    "a": " unitatea centrala de prelucrare a. unitatea centrala de prelucrare ",
+    "b": " un circuit integrat de foarte mare complexitate b. un circuit integrat de foarte mare complexitate ",
+    "c": " un program care se aflã pe hard disk c. un program care se aflã pe hard disk ",
+    "answ": ["a", "b"],
+    "number": 34
+  },
+  {
+    "disc": "ECOLOGIE ȘI PROTECȚIA MEDIULUI",
+    "question": "Studiul relațiilor unei specii cu mediul se numește:",
+    "a": "autoecologie; ",
+    "b": "sinecologie; ",
+    "c": "demecologie. ",
+    "answ": ["a"],
+    "number": 6
+  },
+  {
+    "disc": "TEHNICI HOTELIERE ŞI DE RESTAURANT",
+    "question": " Suporturile pentru frapiere se poziţionează astfel: ",
+    "a": " pe mese a) pe mese ",
+    "b": " lângă mese b) lângă mese ",
+    "c": " pe console c) pe console ",
+    "answ": ["a", "b", "b"],
+    "number": 7
+  },
+  {
+    "disc": "MANAGEMENTUL CALITĂȚII ",
+    "question": " Inițiatorul unui audit poate fi: ",
+    "a": "o organizație de protecție a consumatorilor ",
+    "b": "conducerea intreprinderii ",
+    "c": "un beneficiar al intreprinderii ",
+    "answ": ["b", "c"],
+    "number": 60
+  },
+  {
+    "disc": "ECOLOGIE ȘI PROTECȚIA MEDIULUI",
+    "question": "Etapa sinecologică se caracterizează prin cercetarea relațiilor dintre:",
+    "a": "indivizi și populații; ",
+    "b": "indivizii unei singure specii; ",
+    "c": "un organism cu mediul. ",
+    "answ": ["a"],
+    "number": 4
+  },
+  {
+    "disc": "MANAGEMENT ÎN ALIMENTAȚIE PUBLICĂ ȘI AGROTURISM",
+    "question": " Menul este: ",
+    "a": "instrument de promovare a vânzărilor ",
+    "b": "o listă cu ingredientele produselor fabricate ",
+    "c": "o listă cu preparatele trecute în ordinea în care se servesc ",
+    "answ": ["a", "c"],
+    "number": 61
+  },
+  {
+    "disc": "BAZELE MANAGEMENTULUI",
+    "question": " Structurile organizatorice diferă între ele în funcție de: ",
+    "a": "forma și tipul organizației;",
+    "b": "modalitățile de grupare a activităților;",
+    "c": "elementele de baza ale structurii organizatorice. ",
+    "answ": ["a", "c"],
+    "number": 67
+  },
+  {
+    "disc": "ECOLOGIE ȘI PROTECȚIA MEDIULUI",
+    "question": "În funcţie de cerinţele faţă de apă plantele hidrofite sunt acele plante care:",
+    "a": "trăiesc în locuri umede; ",
+    "b": "se găsesc în locurile moderat umede; ",
+    "c": "se găsesc în locuri uscate. ",
+    "answ": ["a"],
+    "number": 21
+  }
+]

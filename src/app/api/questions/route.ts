@@ -158,9 +158,9 @@ export async function GET(req: NextRequest) {
   // const INTREBARI = extractQuestions(xmlContent)
   // writeFileSync(`./intrebari.json`,JSON.stringify(INTREBARI))
 
-  const json = readFileSync("./intrebariBUNE.json", "utf-8");
-  const obj = JSON.parse(json);
+  const json = readFileSync("./intrebariSLABE.json", "utf-8");
+  const objBune = JSON.parse(json);
   console.log("SENDING JSON");
 
-  return NextResponse.json({ questions: obj });
+  return NextResponse.json({ questions: objBune });
 }

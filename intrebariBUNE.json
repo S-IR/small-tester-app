@@ -1312,7 +1312,7 @@
     "a": " pe mese a) pe mese ",
     "b": " lângă mese b) lângă mese ",
     "c": " pe console c) pe console ",
-    "answ": ["a", "b", "b"],
+    "answ": ["b"],
     "number": 7
   },
   {
@@ -2500,7 +2500,7 @@
     "a": " Streptococcus salivarius subsp. thermophilus",
     "b": " Lactococcus cremoris şi Lactococcus diacetilactis ",
     "c": " Lactobacillus delbrueckii subsp. bulgaricus",
-    "answ": ["a", "b"],
+    "answ": ["a", "c"],
     "number": 69
   },
   {
@@ -3507,7 +3507,7 @@
     "disc": "MANAGEMENTUL CALITĂȚII ",
     "question": " Care afirmații sunt adevărate în legătură cu caracteristicile sociale: ",
     "a": "unele trebuie să aibă niveluri cuprinse între anumite limite ",
-    "b": "pun in evidenta modul în care produsul sau serviciul influențează viața persoanelor și a ",
+    "b": "pun in evidenta modul în care produsul sau serviciul influențează viața persoanelor și a grupurilor sociale",
     "c": "sunt percepute ușor de utilizatori ",
     "answ": ["a", "b", "c"],
     "number": 41
